@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Simple-To-do-app](https://github.com/sachinibuddhika/Simple-To-do-app)
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **NLP and Image Processing with Python**
 
 - 📝 I regularly write articles on [https://medium.com/@sachinibuddhika](https://medium.com/@sachinibuddhika)
 
