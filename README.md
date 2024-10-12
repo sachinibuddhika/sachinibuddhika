@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/720/1*qdAW1TjCN57h1lbuuzvchg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinibuddhika&label=Profile%20views&color=0e75b6&style=flat" alt="sachinibuddhika" /> </p>
 
-- 🔭 I’m currently working on [Simple-Task-App](https://github.com/sachinibuddhika/React-Task-App))
+- 🔭 I’m currently working on ([Simple-Task-App using React](https://github.com/sachinibuddhika/React-Task-App))
 
 - 🌱 I’m currently learning **NLP and Image Processing with Python**
 
